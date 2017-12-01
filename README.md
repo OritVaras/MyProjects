@@ -1,1 +1,1 @@
-# rest_wifi_task
+#RESTful API for network reporting and fatching using flask
